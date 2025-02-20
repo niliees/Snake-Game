@@ -1,0 +1,3 @@
+F:/Coding/C++ Projects (Clion)/Snake/cmake-build-debug/CMakeFiles/Snake.dir
+F:/Coding/C++ Projects (Clion)/Snake/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Coding/C++ Projects (Clion)/Snake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
