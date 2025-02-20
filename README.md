@@ -20,8 +20,6 @@ Ein modernes Snake-Spiel implementiert in C++ mit der Windows API. Dieses Projek
 ### Voraussetzungen
 
 - Windows Betriebssystem
-- C++ Compiler (MinGW oder Visual Studio)
-- CMake (optional)
 
 ### Kompilieren
 
